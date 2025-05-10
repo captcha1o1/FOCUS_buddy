@@ -1,8 +1,8 @@
 # FOCUS_buddy
 
-This is a python project that work on window to help people focus on doing a sertain task 
-It uses camera to detect if the person is working or not and gamify task to motivate. It also have a hardcore mode, which help people to lock distraction , like popular website.
-the user can remove or add any website he/she wants.
+This is a Python project that works on Windows to help people focus on doing a certain task 
+It uses a camera to detect whether a person is working and gamifies tasks to motivate. It also has a hardcore mode, which helps people avoid distractions, like popular websites.
+The user can remove or add any website he/she want.
 
-install this to make the code work :-
-pip install opencv-python numpy Pillow pygame
+install this to make the code work:-
+*pip install opencv-python numpy Pillow pygame*
